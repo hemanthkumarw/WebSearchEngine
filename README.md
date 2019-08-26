@@ -4,13 +4,13 @@
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Snapshots](#snapshots)
+* [Snapshot](#snapshots)
 * [Contact](#contact)
 
 ## Technologies
 * Technologies - Java
 
-## Snapshots
+## Snapshot
 ![Example snapshot](./snapshot/ws1.png) 
 ![Example snapshot](./snapshot/ws2.png)
 ![Example snapshot](./snapshot/ws3.png)
